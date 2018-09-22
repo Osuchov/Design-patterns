@@ -1,7 +1,0 @@
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\bin\Debug\Design patterns.exe.config
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\bin\Debug\Design patterns.exe
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\bin\Debug\Design patterns.pdb
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\obj\Debug\Design patterns.csprojAssemblyReference.cache
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\obj\Debug\Design patterns.csproj.CoreCompileInputs.cache
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\obj\Debug\Design patterns.exe
-C:\Users\AndrzejOsuchowski\source\repos\Design patterns\Design patterns\obj\Debug\Design patterns.pdb
